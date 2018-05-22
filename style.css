@@ -1,0 +1,93 @@
+
+table {
+	background: #fff;
+}
+
+.thumbnail {
+	height: 90px;
+}
+
+#chart-container{
+	width: 1000px;
+	margin: 100px auto;
+}
+
+.container {
+	width: 500px;
+	position: relative;
+	height: 330px;
+	right: 290px;
+	background-color: #f8f8f8;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.container1 {
+	width: 500px;
+	height: 330px;
+	position: relative;
+	left: 580px;
+	bottom: 328px;
+	background-color: #f8f8f8;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+/*New Dished*/
+
+.dished{
+    position: absolute;
+    width: 400px;
+    height: 800px;
+    left: 880px;
+    bottom: -890px;
+}
+.img-dished{
+    width: 150px;
+    height: 150px;
+}
+.namedis {
+    position: relative;
+    width: 300px;
+    left: 155px;
+    bottom: 150px;  
+}
+.namedes {
+    position: relative;
+    width: 300px;
+    left: 155px;
+    bottom: 150px; 
+}
+.costdished{
+    position: relative;
+    bottom: 200px;
+}
+
+.newdished{
+    height: 260px;
+}
+/*End ND*/
+
+/* -- BLOG PAGE --*/
+
+.blog .news{
+    height: 100%;
+    width: 50%;
+    border-bottom: 1px dotted #e2e2e3;
+}
+.blog .new{
+    height: 350px;
+}
+.blog .image{
+	position: relative;
+	left: 130px;
+    height: 180px;
+    width: 200px;
+}
+.blog .title{
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-bottom: 10px;
+    width: 400px;
+}
+
+/*END BLOGPAGE*/
